@@ -1,4 +1,7 @@
-# How to use
+# Table of contents
+1. [How to use](#usage)
+
+# How to use <a name="usage"></a>
 
 ## Linux
 
