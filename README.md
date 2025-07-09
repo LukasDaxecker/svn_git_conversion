@@ -2,7 +2,7 @@
 
 ## Linux
 
-chmod u+x ./convert.sh
+chmod u+x ./convert.sh <br>
 ./conver.sh <svn-url> <repo-name>
 
 ## Windows
