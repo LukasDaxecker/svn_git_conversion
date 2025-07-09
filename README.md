@@ -22,3 +22,4 @@ in progress...
 
 1. Tags are often converted to branches
 2. Problems finding the subversion equivalent to a .gitignore
+3. There is not yet an option to convert the svn usernames to git usernames
